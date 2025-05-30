@@ -6,7 +6,7 @@
 
 ## ⚙️ Funcionalidades
 
-- 🗂️ Varre o diretório `C:\Users\igort\OneDrive\Obsidian` (ignora `.obsidian`)
+- 🗂️ Varre o diretórios e ignora `.obsidian`
 - 📄 Converte todas as anotações `.md` em CSVs organizados
 - 🤖 Integração com Gemini 1.5 Flash via API
 - 💬 Interface gráfica simples para conversar com a IA
