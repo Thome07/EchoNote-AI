@@ -36,7 +36,7 @@ class ObsidianAIManager:
         self.notes_data = []
         self.config_file = "obsidian_config.json"
         self.csv_file = "obsidian_notes.csv"
-        self.obsidian_path = r"C:\Users\igort\OneDrive\Obsidian"
+        self.obsidian_path = r"C:"
         
         # Carregar configurações
         self.load_config()
